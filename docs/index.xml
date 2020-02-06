@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JGRG30</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jgrg-org.github.io/JGRG30_waseda/</link>
+      <atom:link href="https://jgrg-org.github.io/JGRG30_waseda/index.xml" rel="self" type="application/rss+xml" />
     <description>JGRG30</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 JGRG30 Local Organising Committee</copyright>
     <image>
-      <url>/img/headers/tokyo_bg.jpg</url>
+      <url>https://jgrg-org.github.io/JGRG30_waseda/img/headers/tokyo_bg.jpg</url>
       <title>JGRG30</title>
-      <link>/</link>
+      <link>https://jgrg-org.github.io/JGRG30_waseda/</link>
     </image>
     
     <item>
       <title>Accommodation &amp; Travel</title>
-      <link>/travel/</link>
+      <link>https://jgrg-org.github.io/JGRG30_waseda/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/travel/</guid>
+      <guid>https://jgrg-org.github.io/JGRG30_waseda/travel/</guid>
       <description></description>
     </item>
     
